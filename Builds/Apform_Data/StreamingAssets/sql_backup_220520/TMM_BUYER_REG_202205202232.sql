@@ -1,0 +1,2 @@
+INSERT INTO TMM_BUYER_REG (BUYER_CD,BUYER_NAME,HP_ADDR,GB_CD,HQ_ADDR,TELNO,FAXNO,BUYER_EMAIL,REMARKS,REG_USERID,REG_DT,UPT_DT) VALUES
+	 ('MO','Korea Maritime & Ocean University (KMOU)','https://www.kmou.ac.kr/','KR','727, Taejong-ro, Yeongdo-gu, Busan, Republic of Korea','82-51-410-4114','82-51-405-5569','yn.park@3dmcdt.com',NULL,NULL,NULL,NULL);

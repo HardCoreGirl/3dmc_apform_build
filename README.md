@@ -2,6 +2,20 @@
 
 ## History
 
+## 22년 6월 8일
+* 도큐먼트 페이지
+    * NULL 데이터로 인한 오류로 인해서 디폴트 값으로 처리 수정
+    * Submit에도 Achieved날짜가 없을 경우 overdue 표시
+    * 도큐먼트 디테일 페이지
+        * Achieved날짜가 없을 경우 리스트 안뜨도록 수정
+
+* Server
+    * DocReg 구조체에 DOC_SUBMIT, DOC_ACHIEVED 항목 추가
+    * Packet에 DOC_SUBMIT, DOC_ACHIEVED 추가
+
+* DB
+    * NULL 데이터로 인한 오류로 인해서 NULL이 아닌 디폴트 값 설정 및 데이터 세팅
+
 ## 22년 6월 7일
 * 도큐먼트 페이지
     * 왼쪽 메뉴 선택시 데이터 누적 버그 수정

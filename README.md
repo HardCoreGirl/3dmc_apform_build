@@ -2,6 +2,15 @@
 
 ## History
 
+## 22년 6월 9일
+* 도큐먼트 페이지
+    * Comment Total, Comment Remained, Approval Status 표시
+    * 도큐먼트 디테일 페이지
+        * DOC_SUBMIT, DOC_ACHIEVED 파일 아이콘 및 표시
+
+* Server
+    * Comment Total, Comment Reamined, Approval Status 패킷 추가
+
 ## 22년 6월 8일
 * 도큐먼트 페이지
     * NULL 데이터로 인한 오류로 인해서 디폴트 값으로 처리 수정

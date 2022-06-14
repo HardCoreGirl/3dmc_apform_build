@@ -2,6 +2,10 @@
 
 ## History
 
+## 22년 6월 14일
+* 도큐먼트 페이지
+    * Progress Status 표시
+
 ## 22년 6월 9일
 * 도큐먼트 페이지
     * Comment Total, Comment Remained, Approval Status 표시

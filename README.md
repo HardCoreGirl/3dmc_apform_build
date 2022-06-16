@@ -2,6 +2,10 @@
 
 ## History
 
+## 22년 6월 16일
+* 도큐먼트 페이지
+    * 버튼에 따른 Document, BuyerComment 페이지 로딩
+
 ## 22년 6월 14일
 * 도큐먼트 페이지
     * Progress Status 표시

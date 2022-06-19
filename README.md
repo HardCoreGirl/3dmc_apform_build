@@ -2,6 +2,11 @@
 
 ## History
 
+## 22년 6월 19일
+* 클라이언트 변동 사항이 없어서 빌드파일 업데이트 연기
+* Server
+    * TDM_CMT_REC_REG 패킷 추가
+
 ## 22년 6월 16일
 * 도큐먼트 페이지
     * 버튼에 따른 Document, BuyerComment 페이지 로딩
